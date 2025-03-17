@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1742194003 source:c:\laptrinhc++\lamlai\main.cpp
+	<SDL.h>
+	<vector>
+	"graphics.h"
+	"game.h"
+
+1742191335 c:\laptrinhc++\lamlai\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+
+1742122093 c:\laptrinhc++\lamlai\defs.h
+
+1741718187 source:c:\laptrinhc++\lamlai\graphics.cpp
+
+1742191596 c:\laptrinhc++\lamlai\game.h
+	"graphics.h"
+
